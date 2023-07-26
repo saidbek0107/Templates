@@ -1,0 +1,97 @@
+header-wrapper {
+    * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+    }
+
+    .container {
+        max-width: 1920px;
+        margin: 0 auto;
+    }
+
+
+    .comfort_title {
+        text-align: center;
+        font-family: 'Barlow Condensed', sans-serif;
+        font-size: 52px;
+        font-style: normal;
+        font-weight: 600;
+        line-height: 140%;
+        letter-spacing: 2.6px;
+        text-transform: uppercase;
+        color: #fff;
+        margin-top: 179px;
+    }
+
+    .nuqta {
+        margin-left: 887px;
+        margin-top: 40px
+    }
+
+    .btn2 {
+        font-family: 'Barlow Condensed', sans-serif;
+        width: 181px;
+        height: 75px;
+        background: #DB3138;
+        color: #fff;
+        font-size: 23px;
+        font-style: normal;
+        font-weight: 600;
+        line-height: 140%;
+        letter-spacing: 1.6px;
+        text-transform: uppercase;
+    }
+
+    .btn2:hover {
+        width: 181px;
+        height: 75px;
+        background: #ac2327;
+        transition: 400ms;
+    }
+
+    .detal {
+        font-family: 'Barlow Condensed', sans-serif;
+        font-size: 23px;
+        font-style: normal;
+        font-weight: 600;
+        line-height: 140%;
+        letter-spacing: 1.6px;
+        text-transform: uppercase;
+        margin-top: 20px;
+        margin-left: 100px;
+
+    }
+
+    .div_btn {
+        display: flex;
+        justify-content: center;
+        margin-top: 60px;
+    }
+
+
+    .black_card {
+        width: 306px;
+        height: 428px;
+        border: 1px solid #898989;
+    }
+
+    .black_card2 {
+        width: 306px;
+        height: 428px;
+        border: 1px solid #898989;
+    }
+    .yuvish{
+        margin-left: 117px;
+        margin-top: 80px;
+    }
+
+    .fixings{
+        display: flex;
+        width: 1296px;
+        justify-content: space-between;
+        margin-left: 312px;
+        margin-top: 80px;
+    }
+
+}

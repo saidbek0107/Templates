@@ -1,0 +1,106 @@
+section {
+    * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+    }
+
+    .container {
+        max-width: 1920px;
+        margin: 0 auto;
+    }
+
+    .section_title {
+        font-family: 'Barlow Condensed', sans-serif;
+        font-size: 50px;
+        font-style: normal;
+        font-weight: 600;
+        line-height: 140%;
+        color: #fff;
+        letter-spacing: 2.6px;
+        text-transform: uppercase;
+        width: 700px;
+        text-align: center;
+        margin-left: 300px;
+    }
+
+    .nuqta3{
+        margin-left: 560px;
+        margin-top: 40px;
+    }
+
+    .line {
+        width: 1296px;
+        height: 1px;
+        opacity: 0.5;
+        background-color: #898989;
+    }
+
+    .table {
+        font-family: 'Barlow Condensed', sans-serif;
+        font-size: 24px;
+        font-style: normal;
+        font-weight: 600;
+        line-height: 140%;
+        color: #fff;
+        letter-spacing: 1.2px;
+        text-transform: uppercase;
+    }
+
+    .tables{
+        display: flex;
+        width: 1300px;
+        justify-content: space-between;
+        margin-top: 30px;
+    }
+
+    .line2 {
+        width: 1296px;
+        height: 1px;
+        opacity: 0.5;
+        background-color: #898989;
+        margin-top: 30px;
+    }
+
+    .title{
+        font-family: 'Barlow Condensed', sans-serif;
+        font-size: 24px;
+        font-style: normal;
+        font-weight: 600;
+        line-height: 140%;
+        color: #fff;
+        letter-spacing: 1.2px;
+        text-transform: uppercase;
+        margin-top: 20px;
+    }
+
+    .title2{
+        font-family: 'Barlow Condensed', sans-serif;
+        font-size: 24px;
+        font-style: normal;
+        font-weight: 600;
+        line-height: 140%;
+        color: #db3831;
+        letter-spacing: 1.2px;
+        text-transform: uppercase;
+        width: 245px;
+        text-align: center;
+    }
+
+    .line2 {
+        width: 1296px;
+        height: 1px;
+        opacity: 0.5;
+        background-color: #898989;
+        margin-top: 30px;
+    }
+
+    .div{
+        margin-top: 180px;
+        margin-left: 312px;
+    }
+
+    .th_table{
+        margin-top: 60px;
+    }
+}

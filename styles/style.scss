@@ -1,0 +1,199 @@
+@import "./nav";
+@import './header';
+@import './section';
+@import './section-wrapper';
+@import './header-wrapper';
+@import './nav-wrapper';
+@import './navbar-wrapper';
+@import './header_wrap';
+
+
+$color1: #fff;
+$color: #DB3138;
+$color2: #898989;
+
+.element_title {
+    color: $color1;
+}
+
+.oldcar_title {
+    color: $color1;
+}
+
+.things_title {
+    color: $color1;
+}
+
+.things_text {
+    color: $color1;
+}
+
+.benzin_title {
+    color: $color1;
+}
+
+.benzin_text {
+    color: $color1;
+}
+
+.moyka_title {
+    color: $color1;
+}
+
+.moyka_text {
+    color: $color1;
+}
+
+.bluecar_text {
+    color: $color1;
+}
+
+.detal {
+    color: $color1;
+}
+
+
+@mixin element_text {
+    font-family: 'Barlow Condensed', sans-serif;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 120%;
+    letter-spacing: 0.72px;
+    color: $color1;
+    max-width: 700px;
+    margin-top: 61px;
+}
+
+.element_text {
+    @include element_text()
+}
+
+@mixin one {
+    font-family: 'Barlow Condensed', sans-serif;
+    font-size: 54px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 140%;
+    letter-spacing: 1.2px;
+    text-transform: uppercase;
+    color: #DB3138;
+
+}
+
+.one {
+    @include one()
+}
+
+.six {
+    @include one()
+}
+
+.two {
+    @include one()
+}
+
+.four {
+    @include one()
+}
+
+.three {
+    @include one()
+}
+
+
+@mixin one_title {
+    font-family: 'Barlow Condensed', sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 140%;
+    letter-spacing: 0.8px;
+    text-transform: uppercase;
+    color: #fff;
+    text-align: center;
+    max-width: 300px;
+}
+
+.one_title {
+    @include one_title()
+}
+
+.six_title {
+    @include one_title()
+}
+
+.two_title {
+    @include one_title()
+}
+
+.four_title {
+    @include one_title()
+}
+
+.three_title {
+    @include one_title()
+}
+
+.kubok_title {
+    @include one_title()
+}
+
+
+@mixin yuvish_title {
+    margin-top: 40px;
+    font-family: 'Barlow Condensed', sans-serif;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 140%;
+    letter-spacing: 1.2px;
+    text-transform: uppercase;
+    color: #fff;
+    margin-left: 69px;
+}
+
+.yuvish_title {
+    @include yuvish_title()
+}
+
+@mixin yuvish_text {
+    margin-top: 20px;
+    font-family: 'Barlow Condensed', sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 140%;
+    letter-spacing: 0.8px;
+    text-transform: uppercase;
+    color: #fff;
+    width: 250px;
+    margin-left: 39px;
+}
+
+.yuvish_text {
+    @include yuvish_text()
+}
+
+
+@mixin btn3 {
+    font-family: 'Barlow Condensed', sans-serif;
+    width: 120px;
+    height: 50px;
+    background: #DB3138;
+    border: none;
+    color: #fff;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 140%;
+    letter-spacing: 0.9px;
+    text-transform: uppercase;
+    margin-top: 35px;
+    border-radius: 5px;
+    margin-left: 100px;
+}
+
+.btn3 {
+    @include btn3()
+}

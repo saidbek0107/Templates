@@ -1,0 +1,86 @@
+header {
+    * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+    }
+
+    .container {
+        max-width: 1920px;
+        margin: 0 auto;
+    }
+
+    .logo_text {
+        font-family: 'Barlow Condensed', sans-serif;
+        font-size: 24px;
+        font-style: normal;
+        font-weight: 600;
+        line-height: 140%;
+        letter-spacing: 1.6px;
+        text-transform: uppercase;
+        color: #fff;
+        width: 526px;
+    }
+
+    .nuqta{
+        margin-top: 50px;
+    }
+
+    .logo_text2 {
+        font-family: 'Barlow Condensed', sans-serif;
+        font-size: 24px;
+        font-style: normal;
+        font-weight: 600;
+        line-height: 140%;
+        letter-spacing: 1.6px;
+        text-transform: uppercase;
+        color: #fff;
+        width: 670px;
+        margin-top: 49px;
+    }
+
+    .star{
+        margin-left: 60px;
+    }
+
+    .voys{
+        margin-left: 60px;
+    }
+
+    .stars{
+        margin-top: 50px;
+    }
+
+    .voy{
+        margin-top: 50px;
+        margin-left: 60px;
+    }
+
+    .bluecar_text {
+        font-family: 'Barlow Condensed', sans-serif;
+        font-size: 18px;
+        font-style: normal;
+        font-weight: 600;
+        line-height: 140%;
+        letter-spacing: 0.9px;
+        text-transform: uppercase;
+        max-width: 700px;
+        color: #fff;
+        margin-top: 50px;
+    }
+
+    .blue_car{
+        margin-top: 50px;
+    }
+
+    .logos{
+        margin-left: 230px;
+        display: flex;
+        width: 1556px;
+        justify-content: space-between;
+    }
+    
+
+   
+
+}

@@ -1,0 +1,127 @@
+section-wrapper {
+    * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+    }
+
+    .container {
+        max-width: 1920px;
+        margin: 0 auto;
+    }
+
+    .things {
+        display: flex;
+        margin-top: 40px;
+    }
+
+    .things_title {
+        font-family: 'Barlow Condensed', sans-serif;
+        font-size: 29px;
+        font-style: normal;
+        font-weight: 600;
+        line-height: 140%;
+        letter-spacing: 1.6px;
+        text-transform: uppercase;
+        margin-top: 15px;
+        margin-left: 36px;
+    }
+
+    .things_text {
+        font-family: 'Barlow Condensed', sans-serif;
+        font-size: 24px;
+        font-style: normal;
+        font-weight: 600;
+        line-height: 120%;
+        letter-spacing: 0.72px;
+        max-width: 750px;
+        margin-top: 43px;
+    }
+
+    .things2 {
+        display: flex;
+        margin-top: 40px;
+    }
+
+    .benzin_title {
+        font-family: 'Barlow Condensed', sans-serif;
+        font-size: 29px;
+        font-style: normal;
+        font-weight: 600;
+        line-height: 140%;
+        letter-spacing: 1.6px;
+        text-transform: uppercase;
+        margin-top: 15px;
+        margin-left: 30px;
+    }
+
+    .benzin_text {
+        font-family: 'Barlow Condensed', sans-serif;
+        font-size: 24px;
+        font-style: normal;
+        font-weight: 500;
+        line-height: 120%;
+        letter-spacing: 0.72px;
+        max-width: 700px;
+        margin-top: 43px;
+    }
+
+    .things3 {
+        display: flex;
+        margin-top: 40px;
+    }
+
+    .moyka_title {
+        font-family: 'Barlow Condensed', sans-serif;
+        font-size: 29px;
+        font-style: normal;
+        font-weight: 600;
+        line-height: 140%;
+        letter-spacing: 1.6px;
+        text-transform: uppercase;
+        margin-top: 15px;
+        margin-left: 30px;
+    }
+
+    .moyka_text {
+        font-family: 'Barlow Condensed', sans-serif;
+        font-size: 24px;
+        font-style: normal;
+        font-weight: 500;
+        line-height: 120%;
+        letter-spacing: 0.72px;
+        max-width: 700px;
+        margin-top: 43px;
+    }
+
+    .oval {
+        margin-top: 40px;
+        margin-left: 240px;
+    }
+
+
+    .bluecar_text {
+        font-family: 'Barlow Condensed', sans-serif;
+        font-size: 18px;
+        font-style: normal;
+        font-weight: 600;
+        line-height: 140%;
+        letter-spacing: 0.9px;
+        text-transform: uppercase;
+        max-width: 700px;
+        margin-top: 50px;
+    }
+    
+
+    .blue{
+        margin-top: 50px;
+    }
+
+   
+
+    .dizayn{
+        display: flex;
+        margin-top: 185px;
+        justify-content: space-evenly;
+    }
+}

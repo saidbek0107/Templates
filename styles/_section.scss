@@ -1,0 +1,70 @@
+section {
+    * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+    }
+
+    .container {
+        max-width: 1920px;
+        margin: 0 auto;
+    }
+
+
+    .old_car {
+        background-image: url(../images/oldcar.jpg);
+        width: 416px;
+        height: 350px;
+        background-position: center;
+        background-size: cover;
+
+    }
+
+    .back_ground {
+        background: #DB3138;
+        width: 366px;
+        height: 70px;
+        margin-top: 313px;
+        position: absolute;
+    }
+
+    .oldcar_title {
+        font-family: 'Barlow Condensed', sans-serif;
+        font-size: 18px;
+        font-style: normal;
+        font-weight: 600;
+        line-height: 140%;
+        letter-spacing: 0.9px;
+        text-transform: uppercase;
+        text-align: center;
+        margin-top: 30px;
+    }
+
+
+    .old_car2 {
+        background-image: url(../images/greatcar.jpg);
+        width: 416px;
+        height: 350px;
+        background-position: center;
+        background-size: cover;
+
+    }
+
+    .old_car3 {
+        background-image: url(../images/badcar.jpg);
+        width: 416px;
+        height: 350px;
+        background-position: center;
+        background-size: cover;
+
+    }
+
+    .cars{
+        display: flex;
+        max-width: 1300px;
+        justify-content: space-between;
+        margin-top: 180px;
+        margin-left: 200px;
+    }
+
+}

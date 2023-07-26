@@ -1,0 +1,223 @@
+header-wrap {
+    * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+    }
+
+    .container {
+        max-width: 1920px;
+        margin: 0 auto;
+    }
+
+    .wrap_title {
+        font-family: 'Barlow Condensed', sans-serif;
+        font-size: 52px;
+        font-style: normal;
+        font-weight: 600;
+        line-height: 140%;
+        letter-spacing: 2.6px;
+        text-transform: uppercase;
+        color: #fff;
+        text-align: center;
+    }
+
+    .nuqta {
+        margin-top: 40px;
+        margin-left: 840px;
+    }
+
+    .katak {
+        width: 306px;
+        height: 47px;
+        background-color: #141414;
+        border: 1px solid #DB3138;
+
+    }
+
+    .katak {
+        width: 306px;
+        height: 47px;
+        background-color: #141414;
+        border: 1px solid #DB3138;
+    }
+
+    .katak2 {
+        width: 306px;
+        height: 47px;
+        background-color: #141414;
+        border: 1px solid #DB3138;
+        margin-left: 50px;
+    }
+
+    .big_katak {
+        width: 526px;
+        height: 150px;
+        background-color: #141414;
+        border: 1px solid #DB3138;
+    }
+
+    .telegram {
+        width: 40px;
+        height: 40px;
+        border: 1px solid #898989;
+    }
+
+    .teleg {
+        padding: 10px;
+    }
+
+    .website {
+        display: flex;
+        margin-top: 24px;
+    }
+
+    .youtube {
+        margin-left: 100px;
+    }
+
+    .telegram {
+        margin-top: 10px;
+    }
+
+    .contact {
+        margin-top: 60px;
+        // margin-left: 600px;
+    }
+
+    .btn4 {
+        font-family: 'Barlow Condensed', sans-serif;
+        font-size: 24px;
+        font-style: normal;
+        font-weight: 600;
+        width: 180px;
+        height: 55px;
+        background-color: #DB3138;
+        color: #fff;
+        border-radius: 5px;
+    }
+
+    .btn4:hover {
+        width: 180px;
+        height: 55px;
+        background: #ac2327;
+        transition: 400ms;
+    }
+
+    .locat_title {
+        font-family: 'Barlow Condensed', sans-serif;
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 600;
+        line-height: 140%;
+        letter-spacing: 0.8px;
+        text-transform: uppercase;
+        color: #fff;
+    }
+
+    .locatsiya {
+        display: flex;
+        gap: 10px;
+    }
+
+    .tel_title {
+        font-family: 'Barlow Condensed', sans-serif;
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 600;
+        line-height: 140%;
+        letter-spacing: 0.8px;
+        text-transform: uppercase;
+        color: #fff;
+    }
+
+
+    .tel {
+        display: flex;
+        gap: 10px;
+    }
+
+    .email_title {
+        font-family: 'Barlow Condensed', sans-serif;
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 600;
+        line-height: 140%;
+        letter-spacing: 0.8px;
+        text-transform: uppercase;
+        color: #fff;
+    }
+
+    .email {
+        display: flex;
+        gap: 10px;
+    }
+
+    .tel_email {
+        display: flex;
+        gap: 30px;
+        margin-left: 85px;
+    }
+
+    .address {
+        display: flex;
+        margin-top: 26px;
+        gap: 27px;
+    }
+
+    .contact {
+        margin-left: 600px;
+    }
+
+    .line_1 {
+        width: 1920px;
+        height: 1px;
+        background-color: #898989;
+        margin-top: 100px;
+    }
+
+    .end_title {
+        font-family: 'Barlow Condensed', sans-serif;
+        color: #898989;
+        font-size: 14px;
+        font-style: normal;
+        font-weight: 600;
+        line-height: 140%;
+        /* 22.4px */
+        letter-spacing: 0.8px;
+        text-transform: uppercase
+    }
+
+    .nav {
+        display: flex;
+        margin-top: 40px;
+    }
+
+    .list {
+        color: #ffffff;
+        text-align: center;
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 500;
+        line-height: 120%;
+        letter-spacing: 0.72px;
+        max-width: 936px;
+        display: flex;
+        list-style: none;
+        gap: 40px;
+        margin-left: 312px;
+    }
+
+    .list_link {
+        font-family: 'Barlow Condensed', sans-serif;
+        font-weight: 400;
+        text-decoration: none;
+        color: #ffffff;
+    }
+
+    .list_link:hover {
+        color: rgb(73, 87, 146);
+        transition: 400ms;
+    }
+
+}

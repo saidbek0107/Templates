@@ -1,0 +1,239 @@
+nav {
+    * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+    }
+
+    .container {
+        max-width: 1920px;
+        margin: 0 auto;
+
+    }
+
+    .car_img {
+        background-image: url(../images/car.jpg);
+        background-position: center;
+        background-size: cover;
+        width: 1920px;
+        height: 1000px;
+    }
+
+    .nav {
+        display: flex;
+
+    }
+
+    .list {
+        color: #ffffff;
+        text-align: center;
+        font-size: 24px;
+        font-style: normal;
+        font-weight: 500;
+        line-height: 120%;
+        letter-spacing: 0.72px;
+        max-width: 936px;
+        display: flex;
+        list-style: none;
+        gap: 40px;
+        margin-left: 312px;
+        margin-top: 40px;
+    }
+
+    .list_link {
+        font-family: 'Barlow Condensed', sans-serif;
+        font-weight: 400;
+        text-decoration: none;
+        color: #ffffff;
+    }
+
+    .list_link:hover {
+        color: rgb(73, 87, 146);
+        transition: 400ms;
+    }
+
+    .burger {
+        margin-top: 42px;
+        margin-left: 400px;
+    }
+
+    .tuning {
+        // margin-left: 700px;
+        margin-top: 160px;
+    }
+
+    .tuning_title {
+        color: #DB3138;
+        font-family: 'Barlow Condensed', sans-serif;
+        font-weight: 700;
+        font-size: 100px;
+        font-style: normal;
+        margin-left: 700px;
+    }
+
+    .point {
+        margin-left: 890px;
+        margin-top: 12px;
+    }
+
+    .tuning_title2 {
+        font-family: 'Barlow Condensed', sans-serif;
+        color: #FFF;
+        text-align: center;
+        font-size: 40px;
+        font-style: normal;
+        font-weight: 500;
+        line-height: 120%;
+        width: 830px;
+        margin-top: 50px;
+        margin-left: 570px;
+
+
+    }
+
+    .btn {
+        font-family: 'Barlow Condensed', sans-serif;
+        width: 150px;
+        height: 60px;
+        background: #DB3138;
+        border: none;
+        color: #FFF;
+        margin-left: 40px;
+        text-align: center;
+        font-size: 15px;
+        font-style: normal;
+        font-weight: 600;
+        line-height: 140%;
+        letter-spacing: 1.2px;
+        margin-left: 920px;
+        margin-top: 55px;
+        border-radius: 5px;
+    }
+
+    .btn:hover {
+        width: 150px;
+        height: 60px;
+        background: #b21d22;
+        transition: 400ms;
+    }
+
+
+    .line {
+        width: 1920px;
+        height: 1px;
+        opacity: 0.5;
+        background: #FFF;
+        margin-top: 115px;
+    }
+
+    .address {
+        font-family: 'Barlow Condensed', sans-serif;
+        color: #FFF;
+        font-size: 18px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 140%;
+        letter-spacing: 0.9px;
+        text-transform: uppercase;
+        margin-left: 150px;
+    }
+
+    .gen {
+        font-family: 'Barlow Condensed', sans-serif;
+        font-size: 24px;
+        font-style: normal;
+        font-weight: 500;
+        line-height: 140%;
+        letter-spacing: 1.2px;
+        text-transform: uppercase;
+        width: 465px;
+        color: #DB3138;
+        margin-top: 20px;
+    }
+
+    .a {
+        margin-top: 50px;
+        margin-left: 100px
+    }
+
+    .mini_line {
+        width: 1px;
+        height: 245px;
+        background: #898989;
+    }
+
+    .phone {
+        font-family: 'Barlow Condensed', sans-serif;
+        color: #FFF;
+        font-size: 18px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 140%;
+        letter-spacing: 0.9px;
+        text-transform: uppercase;
+        margin-left: 60px;
+    }
+
+    .p_gen {
+        line-height: 18px;
+        font-family: 'Barlow Condensed', sans-serif;
+        font-size: 24px;
+        font-style: normal;
+        font-weight: 500;
+        line-height: 140%;
+        letter-spacing: 1.2px;
+        text-transform: uppercase;
+        width: 465px;
+        color: #DB3138;
+        margin-top: 20px;
+    }
+
+    .b {
+        margin-top: 50px;
+        margin-left: 210px;
+    }
+
+
+    .time {
+        font-family: 'Barlow Condensed', sans-serif;
+        color: #FFF;
+        font-size: 18px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 140%;
+        letter-spacing: 0.9px;
+        text-transform: uppercase;
+        margin-left: 60px;
+    }
+
+
+    .t_gen {
+        line-height: 18px;
+        font-family: 'Barlow Condensed', sans-serif;
+        font-size: 24px;
+        font-style: normal;
+        font-weight: 500;
+        line-height: 140%;
+        letter-spacing: 1.2px;
+        text-transform: uppercase;
+        width: 465px;
+        color: #DB3138;
+        margin-top: 20px;
+    }
+
+    .c {
+        margin-top: 50px;
+        margin-left: 210px;
+    }
+
+
+    .reverence {
+        display: flex;
+        justify-content: space-around;
+    }
+
+
+
+
+
+}

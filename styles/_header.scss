@@ -1,0 +1,75 @@
+header {
+    * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+    }
+
+    .container {
+        max-width: 1920px;
+        margin: 0 auto;
+    }
+
+
+    .element {
+       margin-left: 200px;
+        
+    }
+
+    .element_title {
+        font-size: 50px;
+        font-style: normal;
+        font-weight: 600;
+        line-height: 140%;
+        // letter-spacing: 2.6px;
+        text-transform: uppercase;
+        max-width: 905px;
+        font-family: 'Barlow Condensed', sans-serif;
+    }
+
+    .nuqta2 {
+        margin-top: 40px;
+    }
+
+    .card1 {
+        width: 318px;
+        height: 177px;
+        border: 1px solid #898989;
+    }
+
+    .one{
+        margin-left: 130px;
+    }
+
+    .six{
+        margin-left: 130px;
+    }
+
+    .two{
+        margin-left: 130px;
+    }
+
+    .four{
+        margin-left: 130px;
+    }
+
+    .three{
+        margin-left: 130px;
+    }
+
+    .kubok{
+        margin-left: 130px;
+    }
+
+    .cards_1_2{
+        display: flex;
+    }
+
+    .card2{
+        margin-top: 65px;
+    }
+
+    .element{
+        display: flex;
+    }
+}

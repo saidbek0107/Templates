@@ -1,0 +1,1065 @@
+nav * {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+nav .container {
+  max-width: 1920px;
+  margin: 0 auto;
+}
+nav .car_img {
+  background-image: url(../images/car.jpg);
+  background-position: center;
+  background-size: cover;
+  width: 1920px;
+  height: 1000px;
+}
+nav .nav {
+  display: flex;
+}
+nav .list {
+  color: #ffffff;
+  text-align: center;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 120%;
+  letter-spacing: 0.72px;
+  max-width: 936px;
+  display: flex;
+  list-style: none;
+  gap: 40px;
+  margin-left: 312px;
+  margin-top: 40px;
+}
+nav .list_link {
+  font-family: "Barlow Condensed", sans-serif;
+  font-weight: 400;
+  text-decoration: none;
+  color: #ffffff;
+}
+nav .list_link:hover {
+  color: rgb(73, 87, 146);
+  transition: 400ms;
+}
+nav .burger {
+  margin-top: 42px;
+  margin-left: 400px;
+}
+nav .tuning {
+  margin-top: 160px;
+}
+nav .tuning_title {
+  color: #DB3138;
+  font-family: "Barlow Condensed", sans-serif;
+  font-weight: 700;
+  font-size: 100px;
+  font-style: normal;
+  margin-left: 700px;
+}
+nav .point {
+  margin-left: 890px;
+  margin-top: 12px;
+}
+nav .tuning_title2 {
+  font-family: "Barlow Condensed", sans-serif;
+  color: #FFF;
+  text-align: center;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 120%;
+  width: 830px;
+  margin-top: 50px;
+  margin-left: 570px;
+}
+nav .btn {
+  font-family: "Barlow Condensed", sans-serif;
+  width: 150px;
+  height: 60px;
+  background: #DB3138;
+  border: none;
+  color: #FFF;
+  margin-left: 40px;
+  text-align: center;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 140%;
+  letter-spacing: 1.2px;
+  margin-left: 920px;
+  margin-top: 55px;
+  border-radius: 5px;
+}
+nav .btn:hover {
+  width: 150px;
+  height: 60px;
+  background: #b21d22;
+  transition: 400ms;
+}
+nav .line {
+  width: 1920px;
+  height: 1px;
+  opacity: 0.5;
+  background: #FFF;
+  margin-top: 115px;
+}
+nav .address {
+  font-family: "Barlow Condensed", sans-serif;
+  color: #FFF;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 140%;
+  letter-spacing: 0.9px;
+  text-transform: uppercase;
+  margin-left: 150px;
+}
+nav .gen {
+  font-family: "Barlow Condensed", sans-serif;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 140%;
+  letter-spacing: 1.2px;
+  text-transform: uppercase;
+  width: 465px;
+  color: #DB3138;
+  margin-top: 20px;
+}
+nav .a {
+  margin-top: 50px;
+  margin-left: 100px;
+}
+nav .mini_line {
+  width: 1px;
+  height: 245px;
+  background: #898989;
+}
+nav .phone {
+  font-family: "Barlow Condensed", sans-serif;
+  color: #FFF;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 140%;
+  letter-spacing: 0.9px;
+  text-transform: uppercase;
+  margin-left: 60px;
+}
+nav .p_gen {
+  line-height: 18px;
+  font-family: "Barlow Condensed", sans-serif;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 140%;
+  letter-spacing: 1.2px;
+  text-transform: uppercase;
+  width: 465px;
+  color: #DB3138;
+  margin-top: 20px;
+}
+nav .b {
+  margin-top: 50px;
+  margin-left: 210px;
+}
+nav .time {
+  font-family: "Barlow Condensed", sans-serif;
+  color: #FFF;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 140%;
+  letter-spacing: 0.9px;
+  text-transform: uppercase;
+  margin-left: 60px;
+}
+nav .t_gen {
+  line-height: 18px;
+  font-family: "Barlow Condensed", sans-serif;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 140%;
+  letter-spacing: 1.2px;
+  text-transform: uppercase;
+  width: 465px;
+  color: #DB3138;
+  margin-top: 20px;
+}
+nav .c {
+  margin-top: 50px;
+  margin-left: 210px;
+}
+nav .reverence {
+  display: flex;
+  justify-content: space-around;
+}
+
+header * {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+header .container {
+  max-width: 1920px;
+  margin: 0 auto;
+}
+header .element {
+  margin-left: 200px;
+}
+header .element_title {
+  font-size: 50px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 140%;
+  text-transform: uppercase;
+  max-width: 905px;
+  font-family: "Barlow Condensed", sans-serif;
+}
+header .nuqta2 {
+  margin-top: 40px;
+}
+header .card1 {
+  width: 318px;
+  height: 177px;
+  border: 1px solid #898989;
+}
+header .one {
+  margin-left: 130px;
+}
+header .six {
+  margin-left: 130px;
+}
+header .two {
+  margin-left: 130px;
+}
+header .four {
+  margin-left: 130px;
+}
+header .three {
+  margin-left: 130px;
+}
+header .kubok {
+  margin-left: 130px;
+}
+header .cards_1_2 {
+  display: flex;
+}
+header .card2 {
+  margin-top: 65px;
+}
+header .element {
+  display: flex;
+}
+
+section * {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+section .container {
+  max-width: 1920px;
+  margin: 0 auto;
+}
+section .old_car {
+  background-image: url(../images/oldcar.jpg);
+  width: 416px;
+  height: 350px;
+  background-position: center;
+  background-size: cover;
+}
+section .back_ground {
+  background: #DB3138;
+  width: 366px;
+  height: 70px;
+  margin-top: 313px;
+  position: absolute;
+}
+section .oldcar_title {
+  font-family: "Barlow Condensed", sans-serif;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 140%;
+  letter-spacing: 0.9px;
+  text-transform: uppercase;
+  text-align: center;
+  margin-top: 30px;
+}
+section .old_car2 {
+  background-image: url(../images/greatcar.jpg);
+  width: 416px;
+  height: 350px;
+  background-position: center;
+  background-size: cover;
+}
+section .old_car3 {
+  background-image: url(../images/badcar.jpg);
+  width: 416px;
+  height: 350px;
+  background-position: center;
+  background-size: cover;
+}
+section .cars {
+  display: flex;
+  max-width: 1300px;
+  justify-content: space-between;
+  margin-top: 180px;
+  margin-left: 200px;
+}
+
+section-wrapper * {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+section-wrapper .container {
+  max-width: 1920px;
+  margin: 0 auto;
+}
+section-wrapper .things {
+  display: flex;
+  margin-top: 40px;
+}
+section-wrapper .things_title {
+  font-family: "Barlow Condensed", sans-serif;
+  font-size: 29px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 140%;
+  letter-spacing: 1.6px;
+  text-transform: uppercase;
+  margin-top: 15px;
+  margin-left: 36px;
+}
+section-wrapper .things_text {
+  font-family: "Barlow Condensed", sans-serif;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 120%;
+  letter-spacing: 0.72px;
+  max-width: 750px;
+  margin-top: 43px;
+}
+section-wrapper .things2 {
+  display: flex;
+  margin-top: 40px;
+}
+section-wrapper .benzin_title {
+  font-family: "Barlow Condensed", sans-serif;
+  font-size: 29px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 140%;
+  letter-spacing: 1.6px;
+  text-transform: uppercase;
+  margin-top: 15px;
+  margin-left: 30px;
+}
+section-wrapper .benzin_text {
+  font-family: "Barlow Condensed", sans-serif;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 120%;
+  letter-spacing: 0.72px;
+  max-width: 700px;
+  margin-top: 43px;
+}
+section-wrapper .things3 {
+  display: flex;
+  margin-top: 40px;
+}
+section-wrapper .moyka_title {
+  font-family: "Barlow Condensed", sans-serif;
+  font-size: 29px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 140%;
+  letter-spacing: 1.6px;
+  text-transform: uppercase;
+  margin-top: 15px;
+  margin-left: 30px;
+}
+section-wrapper .moyka_text {
+  font-family: "Barlow Condensed", sans-serif;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 120%;
+  letter-spacing: 0.72px;
+  max-width: 700px;
+  margin-top: 43px;
+}
+section-wrapper .oval {
+  margin-top: 40px;
+  margin-left: 240px;
+}
+section-wrapper .bluecar_text {
+  font-family: "Barlow Condensed", sans-serif;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 140%;
+  letter-spacing: 0.9px;
+  text-transform: uppercase;
+  max-width: 700px;
+  margin-top: 50px;
+}
+section-wrapper .blue {
+  margin-top: 50px;
+}
+section-wrapper .dizayn {
+  display: flex;
+  margin-top: 185px;
+  justify-content: space-evenly;
+}
+
+header-wrapper * {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+header-wrapper .container {
+  max-width: 1920px;
+  margin: 0 auto;
+}
+header-wrapper .comfort_title {
+  text-align: center;
+  font-family: "Barlow Condensed", sans-serif;
+  font-size: 52px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 140%;
+  letter-spacing: 2.6px;
+  text-transform: uppercase;
+  color: #fff;
+  margin-top: 179px;
+}
+header-wrapper .nuqta {
+  margin-left: 887px;
+  margin-top: 40px;
+}
+header-wrapper .btn2 {
+  font-family: "Barlow Condensed", sans-serif;
+  width: 181px;
+  height: 75px;
+  background: #DB3138;
+  color: #fff;
+  font-size: 23px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 140%;
+  letter-spacing: 1.6px;
+  text-transform: uppercase;
+}
+header-wrapper .btn2:hover {
+  width: 181px;
+  height: 75px;
+  background: #ac2327;
+  transition: 400ms;
+}
+header-wrapper .detal {
+  font-family: "Barlow Condensed", sans-serif;
+  font-size: 23px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 140%;
+  letter-spacing: 1.6px;
+  text-transform: uppercase;
+  margin-top: 20px;
+  margin-left: 100px;
+}
+header-wrapper .div_btn {
+  display: flex;
+  justify-content: center;
+  margin-top: 60px;
+}
+header-wrapper .black_card {
+  width: 306px;
+  height: 428px;
+  border: 1px solid #898989;
+}
+header-wrapper .black_card2 {
+  width: 306px;
+  height: 428px;
+  border: 1px solid #898989;
+}
+header-wrapper .yuvish {
+  margin-left: 117px;
+  margin-top: 80px;
+}
+header-wrapper .fixings {
+  display: flex;
+  width: 1296px;
+  justify-content: space-between;
+  margin-left: 312px;
+  margin-top: 80px;
+}
+
+nav-wrapper * {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+nav-wrapper .container {
+  max-width: 1920px;
+  margin: 0 auto;
+}
+nav-wrapper .yellow_text {
+  font-family: "Barlow Condensed", sans-serif;
+  text-align: center;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 140%;
+  letter-spacing: 0.9px;
+  text-transform: uppercase;
+  color: #fff;
+  max-width: 450px;
+  margin-left: 100px;
+  margin-top: 50px;
+}
+nav-wrapper .things {
+  display: flex;
+}
+nav-wrapper .things_title {
+  font-family: "Barlow Condensed", sans-serif;
+  font-size: 29px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 140%;
+  letter-spacing: 1.6px;
+  text-transform: uppercase;
+  margin-top: 15px;
+  margin-left: 36px;
+}
+nav-wrapper .things_text {
+  font-family: "Barlow Condensed", sans-serif;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 120%;
+  letter-spacing: 0.72px;
+  max-width: 750px;
+  margin-top: 43px;
+}
+nav-wrapper .things2 {
+  display: flex;
+  margin-top: 40px;
+}
+nav-wrapper .benzin_title {
+  font-family: "Barlow Condensed", sans-serif;
+  font-size: 29px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 140%;
+  letter-spacing: 1.6px;
+  text-transform: uppercase;
+  margin-top: 15px;
+  margin-left: 30px;
+}
+nav-wrapper .benzin_text {
+  font-family: "Barlow Condensed", sans-serif;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 120%;
+  letter-spacing: 0.72px;
+  max-width: 700px;
+  margin-top: 43px;
+}
+nav-wrapper .things3 {
+  display: flex;
+  margin-top: 40px;
+}
+nav-wrapper .moyka_title {
+  font-family: "Barlow Condensed", sans-serif;
+  font-size: 29px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 140%;
+  letter-spacing: 1.6px;
+  text-transform: uppercase;
+  margin-top: 15px;
+  margin-left: 30px;
+}
+nav-wrapper .moyka_text {
+  font-family: "Barlow Condensed", sans-serif;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 120%;
+  letter-spacing: 0.72px;
+  max-width: 700px;
+  margin-top: 43px;
+}
+nav-wrapper .oval {
+  margin-top: 40px;
+  margin-left: 240px;
+}
+nav-wrapper .bluecar_text {
+  font-family: "Barlow Condensed", sans-serif;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 140%;
+  letter-spacing: 0.9px;
+  text-transform: uppercase;
+  max-width: 700px;
+}
+nav-wrapper .dizayn {
+  display: flex;
+  margin-top: 185px;
+  justify-content: space-evenly;
+}
+
+navbar-wrapper * {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+navbar-wrapper .container {
+  max-width: 1920px;
+  margin: 0 auto;
+}
+navbar-wrapper .our_title {
+  font-family: "Barlow Condensed", sans-serif;
+  font-size: 52px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 140%;
+  letter-spacing: 2.6px;
+  text-transform: uppercase;
+  color: #fff;
+  margin-top: 191px;
+  margin-left: 642px;
+}
+navbar-wrapper .nuqta {
+  margin-top: 40px;
+  margin-left: 800px;
+}
+navbar-wrapper .big_img {
+  margin-top: 60px;
+}
+
+header-wrap * {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+header-wrap .container {
+  max-width: 1920px;
+  margin: 0 auto;
+}
+header-wrap .wrap_title {
+  font-family: "Barlow Condensed", sans-serif;
+  font-size: 52px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 140%;
+  letter-spacing: 2.6px;
+  text-transform: uppercase;
+  color: #fff;
+  text-align: center;
+}
+header-wrap .nuqta {
+  margin-top: 40px;
+  margin-left: 840px;
+}
+header-wrap .katak {
+  width: 306px;
+  height: 47px;
+  background-color: #141414;
+  border: 1px solid #DB3138;
+}
+header-wrap .katak {
+  width: 306px;
+  height: 47px;
+  background-color: #141414;
+  border: 1px solid #DB3138;
+}
+header-wrap .katak2 {
+  width: 306px;
+  height: 47px;
+  background-color: #141414;
+  border: 1px solid #DB3138;
+  margin-left: 50px;
+}
+header-wrap .big_katak {
+  width: 526px;
+  height: 150px;
+  background-color: #141414;
+  border: 1px solid #DB3138;
+}
+header-wrap .telegram {
+  width: 40px;
+  height: 40px;
+  border: 1px solid #898989;
+}
+header-wrap .teleg {
+  padding: 10px;
+}
+header-wrap .website {
+  display: flex;
+  margin-top: 24px;
+}
+header-wrap .youtube {
+  margin-left: 100px;
+}
+header-wrap .telegram {
+  margin-top: 10px;
+}
+header-wrap .contact {
+  margin-top: 60px;
+}
+header-wrap .btn4 {
+  font-family: "Barlow Condensed", sans-serif;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 600;
+  width: 180px;
+  height: 55px;
+  background-color: #DB3138;
+  color: #fff;
+  border-radius: 5px;
+}
+header-wrap .btn4:hover {
+  width: 180px;
+  height: 55px;
+  background: #ac2327;
+  transition: 400ms;
+}
+header-wrap .locat_title {
+  font-family: "Barlow Condensed", sans-serif;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 140%;
+  letter-spacing: 0.8px;
+  text-transform: uppercase;
+  color: #fff;
+}
+header-wrap .locatsiya {
+  display: flex;
+  gap: 10px;
+}
+header-wrap .tel_title {
+  font-family: "Barlow Condensed", sans-serif;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 140%;
+  letter-spacing: 0.8px;
+  text-transform: uppercase;
+  color: #fff;
+}
+header-wrap .tel {
+  display: flex;
+  gap: 10px;
+}
+header-wrap .email_title {
+  font-family: "Barlow Condensed", sans-serif;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 140%;
+  letter-spacing: 0.8px;
+  text-transform: uppercase;
+  color: #fff;
+}
+header-wrap .email {
+  display: flex;
+  gap: 10px;
+}
+header-wrap .tel_email {
+  display: flex;
+  gap: 30px;
+  margin-left: 85px;
+}
+header-wrap .address {
+  display: flex;
+  margin-top: 26px;
+  gap: 27px;
+}
+header-wrap .contact {
+  margin-left: 600px;
+}
+header-wrap .line_1 {
+  width: 1920px;
+  height: 1px;
+  background-color: #898989;
+  margin-top: 100px;
+}
+header-wrap .end_title {
+  font-family: "Barlow Condensed", sans-serif;
+  color: #898989;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 140%;
+  /* 22.4px */
+  letter-spacing: 0.8px;
+  text-transform: uppercase;
+}
+header-wrap .nav {
+  display: flex;
+  margin-top: 40px;
+}
+header-wrap .list {
+  color: #ffffff;
+  text-align: center;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 120%;
+  letter-spacing: 0.72px;
+  max-width: 936px;
+  display: flex;
+  list-style: none;
+  gap: 40px;
+  margin-left: 312px;
+}
+header-wrap .list_link {
+  font-family: "Barlow Condensed", sans-serif;
+  font-weight: 400;
+  text-decoration: none;
+  color: #ffffff;
+}
+header-wrap .list_link:hover {
+  color: rgb(73, 87, 146);
+  transition: 400ms;
+}
+
+.element_title {
+  color: #fff;
+}
+
+.oldcar_title {
+  color: #fff;
+}
+
+.things_title {
+  color: #fff;
+}
+
+.things_text {
+  color: #fff;
+}
+
+.benzin_title {
+  color: #fff;
+}
+
+.benzin_text {
+  color: #fff;
+}
+
+.moyka_title {
+  color: #fff;
+}
+
+.moyka_text {
+  color: #fff;
+}
+
+.bluecar_text {
+  color: #fff;
+}
+
+.detal {
+  color: #fff;
+}
+
+.element_text {
+  font-family: "Barlow Condensed", sans-serif;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 120%;
+  letter-spacing: 0.72px;
+  color: #fff;
+  max-width: 700px;
+  margin-top: 61px;
+}
+
+.one {
+  font-family: "Barlow Condensed", sans-serif;
+  font-size: 54px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 140%;
+  letter-spacing: 1.2px;
+  text-transform: uppercase;
+  color: #DB3138;
+}
+
+.six {
+  font-family: "Barlow Condensed", sans-serif;
+  font-size: 54px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 140%;
+  letter-spacing: 1.2px;
+  text-transform: uppercase;
+  color: #DB3138;
+}
+
+.two {
+  font-family: "Barlow Condensed", sans-serif;
+  font-size: 54px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 140%;
+  letter-spacing: 1.2px;
+  text-transform: uppercase;
+  color: #DB3138;
+}
+
+.four {
+  font-family: "Barlow Condensed", sans-serif;
+  font-size: 54px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 140%;
+  letter-spacing: 1.2px;
+  text-transform: uppercase;
+  color: #DB3138;
+}
+
+.three {
+  font-family: "Barlow Condensed", sans-serif;
+  font-size: 54px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 140%;
+  letter-spacing: 1.2px;
+  text-transform: uppercase;
+  color: #DB3138;
+}
+
+.one_title {
+  font-family: "Barlow Condensed", sans-serif;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 140%;
+  letter-spacing: 0.8px;
+  text-transform: uppercase;
+  color: #fff;
+  text-align: center;
+  max-width: 300px;
+}
+
+.six_title {
+  font-family: "Barlow Condensed", sans-serif;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 140%;
+  letter-spacing: 0.8px;
+  text-transform: uppercase;
+  color: #fff;
+  text-align: center;
+  max-width: 300px;
+}
+
+.two_title {
+  font-family: "Barlow Condensed", sans-serif;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 140%;
+  letter-spacing: 0.8px;
+  text-transform: uppercase;
+  color: #fff;
+  text-align: center;
+  max-width: 300px;
+}
+
+.four_title {
+  font-family: "Barlow Condensed", sans-serif;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 140%;
+  letter-spacing: 0.8px;
+  text-transform: uppercase;
+  color: #fff;
+  text-align: center;
+  max-width: 300px;
+}
+
+.three_title {
+  font-family: "Barlow Condensed", sans-serif;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 140%;
+  letter-spacing: 0.8px;
+  text-transform: uppercase;
+  color: #fff;
+  text-align: center;
+  max-width: 300px;
+}
+
+.kubok_title {
+  font-family: "Barlow Condensed", sans-serif;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 140%;
+  letter-spacing: 0.8px;
+  text-transform: uppercase;
+  color: #fff;
+  text-align: center;
+  max-width: 300px;
+}
+
+.yuvish_title {
+  margin-top: 40px;
+  font-family: "Barlow Condensed", sans-serif;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 140%;
+  letter-spacing: 1.2px;
+  text-transform: uppercase;
+  color: #fff;
+  margin-left: 69px;
+}
+
+.yuvish_text {
+  margin-top: 20px;
+  font-family: "Barlow Condensed", sans-serif;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 140%;
+  letter-spacing: 0.8px;
+  text-transform: uppercase;
+  color: #fff;
+  width: 250px;
+  margin-left: 39px;
+}
+
+.btn3 {
+  font-family: "Barlow Condensed", sans-serif;
+  width: 120px;
+  height: 50px;
+  background: #DB3138;
+  border: none;
+  color: #fff;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 140%;
+  letter-spacing: 0.9px;
+  text-transform: uppercase;
+  margin-top: 35px;
+  border-radius: 5px;
+  margin-left: 100px;
+}/*# sourceMappingURL=style.css.map */

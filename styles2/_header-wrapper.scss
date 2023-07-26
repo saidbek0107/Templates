@@ -1,0 +1,79 @@
+header-wrapper {
+    * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+    }
+
+    .container {
+        max-width: 1920px;
+        margin: 0 auto;
+    }
+
+    .head_title {
+        font-family: 'Barlow Condensed', sans-serif;
+        font-size: 52px;
+        font-style: normal;
+        font-weight: 600;
+        line-height: 140%;
+        letter-spacing: 2.6px;
+        text-transform: uppercase;
+        color: #fff;
+        width: 825px;
+    }
+
+    .nuqta2{
+        margin-top: 40px;
+        margin-left: 900px;
+    }
+
+    
+    .comfort_title {
+        text-align: center;
+        font-family: 'Barlow Condensed', sans-serif;
+        font-size: 52px;
+        font-style: normal;
+        font-weight: 600;
+        line-height: 140%;
+        letter-spacing: 2.6px;
+        text-transform: uppercase;
+        color: #fff;
+        margin-top: 179px;
+    }
+
+
+.head_title{
+    text-align: center;
+    margin-left: 560px;
+}
+   
+
+
+    .black_card {
+        width: 306px;
+        height: 428px;
+        border: 1px solid #898989;
+    }
+
+    .black_card2 {
+        width: 306px;
+        height: 428px;
+        border: 1px solid #898989;
+    }
+    .yuvish{
+        margin-left: 117px;
+        margin-top: 80px;
+    }
+
+    .import{
+        margin-top: 180px;
+    }
+
+    .fixings{
+        display: flex;
+        width: 1296px;
+        justify-content: space-between;
+        margin-left: 312px;
+        margin-top: 80px;
+    }
+}
