@@ -1,0 +1,25 @@
+@import './nav';
+@import './header';
+
+
+$color:#fff;
+
+
+@mixin n_title {
+    font-family: 'Barlow Condensed', sans-serif;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 140%;
+    letter-spacing: 1.2px;
+    text-transform: uppercase;
+    color: #fff;
+}
+
+.n_title{
+    @include n_title()
+}
+
+.n_title2{
+    @include n_title()
+}

@@ -1,0 +1,280 @@
+nav * {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+nav .container {
+  max-width: 1920px;
+  margin: 0 auto;
+}
+nav .table_title {
+  font-family: "Barlow Condensed", sans-serif;
+  font-size: 52px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 140%;
+  letter-spacing: 2.6px;
+  text-transform: uppercase;
+  color: #fff;
+}
+nav .line {
+  width: 1450px;
+  height: 1px;
+  background: #898989;
+  margin-top: 50px;
+}
+nav .nav_title {
+  display: flex;
+  max-width: 1350px;
+  justify-content: space-between;
+  margin-left: 50px;
+  margin-top: 30px;
+}
+nav .n_title_2 {
+  font-family: "Barlow Condensed", sans-serif;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 140%;
+  letter-spacing: 1.2px;
+  text-transform: uppercase;
+  opacity: 0.6000000238;
+  color: #DB3138;
+  max-width: 250px;
+  align-items: center;
+}
+nav .nav_title2 {
+  display: flex;
+  max-width: 1270px;
+  justify-content: space-between;
+  margin-left: 50px;
+  margin-top: 104px;
+}
+nav .line2 {
+  width: 1450px;
+  height: 1px;
+  background: #898989;
+  margin-top: 25px;
+}
+nav .table_title2 {
+  margin-top: 200px;
+  font-family: "Barlow Condensed", sans-serif;
+  font-size: 52px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 140%;
+  letter-spacing: 2.6px;
+  text-transform: uppercase;
+  color: #fff;
+}
+
+header * {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+header .container {
+  max-width: 1920px;
+  margin: 0 auto;
+}
+header .wrap_title {
+  font-family: "Barlow Condensed", sans-serif;
+  font-size: 52px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 140%;
+  letter-spacing: 2.6px;
+  text-transform: uppercase;
+  color: #fff;
+  text-align: center;
+  margin-top: 50px;
+}
+header .nuqta {
+  margin-top: 40px;
+  margin-left: 840px;
+}
+header .katak {
+  width: 306px;
+  height: 47px;
+  background-color: #141414;
+  border: 1px solid #DB3138;
+}
+header .katak {
+  width: 306px;
+  height: 47px;
+  background-color: #141414;
+  border: 1px solid #DB3138;
+}
+header .katak2 {
+  width: 306px;
+  height: 47px;
+  background-color: #141414;
+  border: 1px solid #DB3138;
+  margin-left: 50px;
+}
+header .big_katak {
+  width: 526px;
+  height: 150px;
+  background-color: #141414;
+  border: 1px solid #DB3138;
+}
+header .telegram {
+  width: 40px;
+  height: 40px;
+  border: 1px solid #898989;
+}
+header .teleg {
+  padding: 10px;
+}
+header .website {
+  display: flex;
+  margin-top: 24px;
+}
+header .youtube {
+  margin-left: 100px;
+}
+header .telegram {
+  margin-top: 10px;
+}
+header .contact {
+  margin-top: 60px;
+}
+header .btn4 {
+  font-family: "Barlow Condensed", sans-serif;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 600;
+  width: 180px;
+  height: 55px;
+  background-color: #DB3138;
+  color: #fff;
+  border-radius: 5px;
+}
+header .btn4:hover {
+  width: 180px;
+  height: 55px;
+  background: #ac2327;
+  transition: 400ms;
+}
+header .locat_title {
+  font-family: "Barlow Condensed", sans-serif;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 140%;
+  letter-spacing: 0.8px;
+  text-transform: uppercase;
+  color: #fff;
+}
+header .locatsiya {
+  display: flex;
+  gap: 10px;
+}
+header .tel_title {
+  font-family: "Barlow Condensed", sans-serif;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 140%;
+  letter-spacing: 0.8px;
+  text-transform: uppercase;
+  color: #fff;
+}
+header .tel {
+  display: flex;
+  gap: 10px;
+}
+header .email_title {
+  font-family: "Barlow Condensed", sans-serif;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 140%;
+  letter-spacing: 0.8px;
+  text-transform: uppercase;
+  color: #fff;
+}
+header .email {
+  display: flex;
+  gap: 10px;
+}
+header .tel_email {
+  display: flex;
+  gap: 30px;
+  margin-left: 85px;
+}
+header .address {
+  display: flex;
+  margin-top: 26px;
+  gap: 27px;
+}
+header .contact {
+  margin-left: 600px;
+}
+header .line_1 {
+  width: 1920px;
+  height: 1px;
+  background-color: #898989;
+  margin-top: 100px;
+}
+header .end_title {
+  font-family: "Barlow Condensed", sans-serif;
+  color: #898989;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 140%;
+  /* 22.4px */
+  letter-spacing: 0.8px;
+  text-transform: uppercase;
+}
+header .nav {
+  display: flex;
+  margin-top: 40px;
+}
+header .list {
+  color: #ffffff;
+  text-align: center;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 120%;
+  letter-spacing: 0.72px;
+  max-width: 936px;
+  display: flex;
+  list-style: none;
+  gap: 40px;
+  margin-left: 312px;
+}
+header .list_link {
+  font-family: "Barlow Condensed", sans-serif;
+  font-weight: 400;
+  text-decoration: none;
+  color: #ffffff;
+}
+header .list_link:hover {
+  color: rgb(73, 87, 146);
+  transition: 400ms;
+}
+
+.n_title {
+  font-family: "Barlow Condensed", sans-serif;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 140%;
+  letter-spacing: 1.2px;
+  text-transform: uppercase;
+  color: #fff;
+}
+
+.n_title2 {
+  font-family: "Barlow Condensed", sans-serif;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 140%;
+  letter-spacing: 1.2px;
+  text-transform: uppercase;
+  color: #fff;
+}/*# sourceMappingURL=style.css.map */
